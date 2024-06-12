@@ -26,7 +26,7 @@ I imported the CSV files into Power Query for cleaning and transformation. Given
 ### 1. Overview of Combined Suburb Key Aspects Comparison
 
 I needed an overview page to compare key aspects of combined suburbs. I used data bars to visually represent the ranking of preference group proportions in each suburb.
-
+![1](https://github.com/Zhenzou28/Wellington-Suburb-Choosing/assets/141204592/ec88c2fe-15f4-48d8-a9ff-d5cc343229fd)
 ### 2. Location
 
 Being new to Wellington, I added a map to help me visually understand the location of each suburb within the city.
