@@ -30,18 +30,25 @@ I needed an overview page to compare key aspects of combined suburbs. I used dat
 ### 2. Location
 
 Being new to Wellington, I added a map to help me visually understand the location of each suburb within the city.
+![2](https://github.com/Zhenzou28/Wellington-Suburb-Choosing/assets/141204592/a47557eb-7b15-473b-838b-253d8123294d)
 
 ### 3. Region Overview
 
 To gain a more detailed understanding of the key aspects of each region, this page used donut charts to show the composition of each group within the selected suburb.
+![3](https://github.com/Zhenzou28/Wellington-Suburb-Choosing/assets/141204592/71bf8fc6-1666-4d35-ba8f-1bf7462161e1)
 
 ### 4. Reference People Choosing
 
 I wanted to see where reference people were choosing to live. This page used area charts to display the top 10 choices of reference people and compared trends across different years.
+![4](https://github.com/Zhenzou28/Wellington-Suburb-Choosing/assets/141204592/d260b58a-d445-421a-97d0-59731858cec6)
 
 ### 5. Detailed Pages
 
 A matrix was used to display detailed information about each key aspect, with data bars and percentages of row totals for easy visual comparison.
+![5](https://github.com/Zhenzou28/Wellington-Suburb-Choosing/assets/141204592/952b2b8f-190f-490e-8ec4-527575fc536b)
+![6](https://github.com/Zhenzou28/Wellington-Suburb-Choosing/assets/141204592/13aa9d5b-0c2a-4e6e-8357-4b4566163f2f)
+![7](https://github.com/Zhenzou28/Wellington-Suburb-Choosing/assets/141204592/b6c98507-db01-4cf9-b419-ea8005841cde)
+![8](https://github.com/Zhenzou28/Wellington-Suburb-Choosing/assets/141204592/ecb4aa40-0fb1-4b04-9a95-a6048c65846a)
 
 ## Results/Findings
 
