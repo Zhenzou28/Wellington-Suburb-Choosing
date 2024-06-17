@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The **Wellington Suburb Data Insights Analysis** project aimed to assist my family in finding a suitable suburb by analyzing demographic data. By leveraging data from NZ.Stat, processing it with Power Query, and visualizing it through an interactive Power BI dashboard, we were able to narrow down our housing options to two suburbs and make an informed decision accordingly.
+The **Wellington Suburb Data Insights Analysis** project aimed to assist my family in finding a suitable suburb by analyzing demographic data. In this portfolio, the focus is solely on neighbourhood data from census data due to several considerations. By leveraging data from NZ.Stat, processing it with Power Query, and visualizing it through an interactive Power BI dashboard, we were able to narrow down our housing options to three suburbs and make an informed decision accordingly. 
 
 ## Project Overview
 
